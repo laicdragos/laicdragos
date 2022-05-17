@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laicdragos
-- 👀 I’m interested in Front-END( HTML, CSS, JavaScript), Python Basic
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Front-END( HTML, CSS, JavaScript), Python
+- 🌱 I’m continously learning
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me over email: laicdragos@gmail.com
 
